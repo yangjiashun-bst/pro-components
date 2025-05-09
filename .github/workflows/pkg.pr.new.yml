@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.repository == 'ant-design/pro-components'
+
 
     steps:
       - name: Checkout
